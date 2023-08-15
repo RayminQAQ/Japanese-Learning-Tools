@@ -11,7 +11,7 @@ A web-based tool for practicing Japanese Hiragana characters. Made in HTML,CSS,J
 ## Installation and Usage
 
 1. Clone this repository to your local machine.
-2. Open the `五十音.html` file in your web browser.
+2. Open the `五十音練習.html` file in your web browser.
 3. Type the Romanized pronunciation of the displayed Hiragana character in the input field.
 4. Press the Enter key to check your answer.
 
