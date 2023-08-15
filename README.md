@@ -16,7 +16,7 @@ A web-based tool for practicing Japanese Hiragana characters. Made in HTML,CSS,J
 4. Press the Enter key to check your answer.
 
 ## Example
-![示例圖片]([https://www.example.com/images/sample.jpg](https://github.com/RayminQAQ/Japanese-Learning-Tools/blob/main/demo/example_Ver01.png?raw=true))
+![示例圖片](https://github.com/RayminQAQ/Japanese-Learning-Tools/blob/main/demo/example_Ver01.png?raw=true)
 
 ## To-Do
 
