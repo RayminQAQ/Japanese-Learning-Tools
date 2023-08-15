@@ -1,0 +1,35 @@
+.font_9em {
+    font-size:.9em;
+}
+
+
+/* 之後研究一下font-face的用法*/
+@font-face{
+    font-family: en;
+    src: url('font/en.woff2') format('woff2');
+    font-display: swap;
+}
+@font-face{
+    font-family: mochi;
+    src: url('font/mochi.woff2') format('woff2');
+    font-display: swap;
+}
+@font-face{
+    font-family: cool;
+    src: url('font/cool.woff2') format('woff2');
+    font-display: swap;
+}
+@font-face{
+    font-family: cute;
+    src: url('font/cute.woff2') format('woff2');
+    font-display: swap;
+}
+@font-face {
+    font-family: kaeru;
+    src: url('font/kaeru.woff2') format("woff2");
+}
+@font-face{
+    font-family: shigen;
+    src: url('font/shigen.woff2') format('woff2');
+    font-display: swap;
+}

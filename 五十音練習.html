@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>五十音練習</title>
+    <link rel="stylesheet" href="font.css">
+    <link rel="stylesheet" href="五十音.css">
+</head>
+<body>
+    <div class="banner">
+        <!-- TO-DO: 清音/濁音/半濁音/拗音 selection-->
+    </div>
+    <div class="Gojūon_outer">
+        <div class="container">
+            <div id="numberDiv" class="infoDiv">
+                <span class="font_9em">全部題數:</span>
+                <label for="number">46 (平假名功能)</label> <!-- JS -->
+            </div>
+            <div id="questionDiv">
+                <span class="font_9em">問題:</span>
+                <label id="question" for="question">日文字</label> <!-- JS -->
+            </div>
+            <div id="ansDiv">
+                <label class="font_9em">答:</label>
+                <input id="answer" type="text"> <!-- JS -->
+                <label id="mode" class="font_9em">(英文拼音)</label>
+            </div>
+            <br>
+            <span id="result"></span> <!-- JS -->
+        </div>
+    </div>
+
+    <!-- JS script -->
+    <script src="五十音.js"></script>
+    <script>
+        // pre-render once
+        nextQuestion('dictionary_main.json')
+    </script>
+</body>
+</html>

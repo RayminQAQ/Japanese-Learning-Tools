@@ -1,0 +1,236 @@
+
+{
+    "title": "Main Dictionary for Katakana(Ktn) and Hiragana(Hgn)",
+    "word": [
+        {
+            "EN": "a",
+            "JP_Hgn": "あ",
+            "JP_Ktn": "ア"
+        },
+        {
+            "EN": "i",
+            "JP_Hgn": "い",
+            "JP_Ktn": "イ"
+        },
+        {
+            "EN": "u",
+            "JP_Hgn": "う",
+            "JP_Ktn": "ウ"
+        },
+        {
+            "EN": "e",
+            "JP_Hgn": "え",
+            "JP_Ktn": "エ"
+        },
+        {
+            "EN": "o",
+            "JP_Hgn": "お",
+            "JP_Ktn": "オ"
+        },
+        {
+            "EN": "ka",
+            "JP_Hgn": "か",
+            "JP_Ktn": "カ"
+        },
+        {
+            "EN": "ki",
+            "JP_Hgn": "き",
+            "JP_Ktn": "キ"
+        },
+        {
+            "EN": "ku",
+            "JP_Hgn": "く",
+            "JP_Ktn": "ク"
+        },
+        {
+            "EN": "ke",
+            "JP_Hgn": "け",
+            "JP_Ktn": "ケ"
+        },
+        {
+            "EN": "ko",
+            "JP_Hgn": "こ",
+            "JP_Ktn": "コ"
+        },
+        {
+            "EN": "sa",
+            "JP_Hgn": "さ",
+            "JP_Ktn": "サ"
+        },
+        {
+            "EN": "shi",
+            "JP_Hgn": "し",
+            "JP_Ktn": "シ"
+        },
+        {
+            "EN": "su",
+            "JP_Hgn": "す",
+            "JP_Ktn": "ス"
+        },
+        {
+            "EN": "se",
+            "JP_Hgn": "せ",
+            "JP_Ktn": "セ"
+        },
+        {
+            "EN": "so",
+            "JP_Hgn": "そ",
+            "JP_Ktn": "ソ"
+        },
+        {
+            "EN": "ta",
+            "JP_Hgn": "た",
+            "JP_Ktn": "タ"
+        },
+        {
+            "EN": "chi",
+            "JP_Hgn": "ち",
+            "JP_Ktn": "チ"
+        },
+        {
+            "EN": "tsu",
+            "JP_Hgn": "つ",
+            "JP_Ktn": "ツ"
+        },
+        {
+            "EN": "te",
+            "JP_Hgn": "て",
+            "JP_Ktn": "テ"
+        },
+        {
+            "EN": "to",
+            "JP_Hgn": "と",
+            "JP_Ktn": "ト"
+        },
+        {
+            "EN": "na",
+            "JP_Hgn": "な",
+            "JP_Ktn": "ナ"
+        },
+        {
+            "EN": "ni",
+            "JP_Hgn": "に",
+            "JP_Ktn": "ニ"
+        },
+        {
+            "EN": "nu",
+            "JP_Hgn": "ぬ",
+            "JP_Ktn": "ヌ"
+        },
+        {
+            "EN": "ne",
+            "JP_Hgn": "ね",
+            "JP_Ktn": "ネ"
+        },
+        {
+            "EN": "no",
+            "JP_Hgn": "の",
+            "JP_Ktn": "ノ"
+        },
+        {
+            "EN": "ha",
+            "JP_Hgn": "は",
+            "JP_Ktn": "ハ"
+        },
+        {
+            "EN": "hi",
+            "JP_Hgn": "ひ",
+            "JP_Ktn": "ヒ"
+        },
+        {
+            "EN": "fu",
+            "JP_Hgn": "ふ",
+            "JP_Ktn": "フ"
+        },
+        {
+            "EN": "he",
+            "JP_Hgn": "へ",
+            "JP_Ktn": "ヘ"
+        },
+        {
+            "EN": "ho",
+            "JP_Hgn": "ほ",
+            "JP_Ktn": "ホ"
+        },
+        {
+            "EN": "ma",
+            "JP_Hgn": "ま",
+            "JP_Ktn": "マ"
+        },
+        {
+            "EN": "mi",
+            "JP_Hgn": "み",
+            "JP_Ktn": "ミ"
+        },
+        {
+            "EN": "mu",
+            "JP_Hgn": "む",
+            "JP_Ktn": "ム"
+        },
+        {
+            "EN": "me",
+            "JP_Hgn": "め",
+            "JP_Ktn": "メ"
+        },
+        {
+            "EN": "mo",
+            "JP_Hgn": "も",
+            "JP_Ktn": "モ"
+        },
+        {
+            "EN": "ya",
+            "JP_Hgn": "や",
+            "JP_Ktn": "ヤ"
+        },
+        {
+            "EN": "yu",
+            "JP_Hgn": "ゆ",
+            "JP_Ktn": "ユ"
+        },
+        {
+            "EN": "yo",
+            "JP_Hgn": "よ",
+            "JP_Ktn": "ヨ"
+        },
+        {
+            "EN": "ra",
+            "JP_Hgn": "ら",
+            "JP_Ktn": "ラ"
+        },
+        {
+            "EN": "ri",
+            "JP_Hgn": "り",
+            "JP_Ktn": "リ"
+        },
+        {
+            "EN": "ru",
+            "JP_Hgn": "る",
+            "JP_Ktn": "ル"
+        },
+        {
+            "EN": "re",
+            "JP_Hgn": "れ",
+            "JP_Ktn": "レ"
+        },
+        {
+            "EN": "ro",
+            "JP_Hgn": "ろ",
+            "JP_Ktn": "ロ"
+        },
+        {
+            "EN": "wa",
+            "JP_Hgn": "わ",
+            "JP_Ktn": "ワ"
+        },
+        {
+            "EN": "wo",
+            "JP_Hgn": "を",
+            "JP_Ktn": "ヲ"
+        },
+        {
+            "EN": "n",
+            "JP_Hgn": "ん",
+            "JP_Ktn": "ン"
+        }
+    ]
+}
