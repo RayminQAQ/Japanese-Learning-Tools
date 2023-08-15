@@ -17,8 +17,6 @@ A web-based tool for practicing Japanese Hiragana characters. Made in HTML,CSS,J
 
 ## Example
 
-![Example Screenshot](screenshot.png)
-
 ## To-Do
 
 - Add additional features, such as Katakana characters, voiced sounds, and digraphs.
@@ -30,8 +28,6 @@ A web-based tool for practicing Japanese Hiragana characters. Made in HTML,CSS,J
 - Name: RayminQAQ
 
 ## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Reference
 - [五十音練習機：平假名│清音│羅馬拼音回答](https://www.sigure.tw/quiz/practice/50/hira-seion-roma.php)
