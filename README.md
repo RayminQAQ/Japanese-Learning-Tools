@@ -1,6 +1,6 @@
 # Japanese Hiragana Practice
 
-A web-based tool for practicing Japanese Hiragana characters. Made in HTML,CSS,JS. For the purpose of learning Japanese. This tool randomly generates Hiragana characters and prompts you to provide the corresponding Romanized pronunciation.
+A web-based tool for practicing Japanese Hiragana characters. Made in HTML,CSS,JS. For the purpose of learning Japanese, this tool randomly generates Hiragana characters and prompts you to provide the corresponding Romanized pronunciation.
 
 ## Features
 
@@ -11,13 +11,11 @@ A web-based tool for practicing Japanese Hiragana characters. Made in HTML,CSS,J
 ## Installation and Usage
 
 1. Clone this repository to your local machine.
-2. Open the `index.html` file in your web browser.
+2. Open the `五十音.html` file in your web browser.
 3. Type the Romanized pronunciation of the displayed Hiragana character in the input field.
 4. Press the Enter key to check your answer.
 
 ## Example
-
-![Example Screenshot](screenshot.png)
 
 ## To-Do
 
@@ -27,13 +25,12 @@ A web-based tool for practicing Japanese Hiragana characters. Made in HTML,CSS,J
 
 ## Author
 
-- Name: RayminQAQ
+- Github Name: RayminQAQ
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
-
 ## Reference
+
 - [五十音練習機：平假名│清音│羅馬拼音回答](https://www.sigure.tw/quiz/practice/50/hira-seion-roma.php)
 
 ---
