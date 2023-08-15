@@ -1,9 +1,6 @@
-# Japanese-Learning-Tools
-Made in HTML,CSS,JS. For the purpose of learning Japanese.
-
 # Japanese Hiragana Practice
 
-A web-based tool for practicing Japanese Hiragana characters. This tool randomly generates Hiragana characters and prompts you to provide the corresponding Romanized pronunciation.
+A web-based tool for practicing Japanese Hiragana characters. Made in HTML,CSS,JS. For the purpose of learning Japanese. This tool randomly generates Hiragana characters and prompts you to provide the corresponding Romanized pronunciation.
 
 ## Features
 
